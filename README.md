@@ -7,7 +7,7 @@ Now, I'm going to introduce my code:
 
 1) Reading of each spectrum
 2) Filtering (Only one peak must be in the spectrum - single-mode regime) 
-  a) Deletion of spectra with weak peaks (law SNR)
-  b) Deletion of parasitic signals
-  c) Reading of parameters from each file
-  d) Search maximum λ, intensity and full power of spectra
+  <p>a) Deletion of spectra with weak peaks (law SNR)
+  <p>b) Deletion of parasitic signals
+  <p>c) Reading of parameters from each file
+  <p>d) Search maximum λ, intensity and full power of spectra

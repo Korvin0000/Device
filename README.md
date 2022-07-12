@@ -11,5 +11,5 @@ Now, I'm going to introduce my code:
   ><p>b) Deletion of parasitic signals
   ><p>c) Reading of parameters from each file
   ><p>d) Search maximum λ, intensity and full power of spectra
-  ><p>e) Saving in txt file
+  ><p>e) Saving in .txt file
     

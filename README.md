@@ -4,3 +4,10 @@ In this project, I need to find the optimal parameters (r, f, p) that provide th
 Now, I'm going to introduce my code:
 
 ## Search of maximum λ (15k spectra)
+
+1) Reading of each spectrum
+2) Filtering (Only one peak must be in the spectrum - single-mode regime) 
+  a) Deletion of spectra with weak peaks (law SNR)
+  b) Deletion of parasitic signals
+  c) Reading of parameters from each file
+  d) Search maximum λ, intensity and full power of spectra

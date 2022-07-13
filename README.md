@@ -13,7 +13,7 @@ Now, I'm going to introduce my code:
   ><p>d) Search maximum λ, intensity and full power of spectra
   ><p>e) Saving in file.txt
 
-![Map_r_(f,λ)](https://user-images.githubusercontent.com/87599571/178658088-e12d391d-6009-4d75-ab9c-15906fd09efc.png)
+
 
 
 <img src="[image.png](https://user-images.githubusercontent.com/87599571/178658088-e12d391d-6009-4d75-ab9c-15906fd09efc.png)">

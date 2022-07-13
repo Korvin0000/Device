@@ -12,5 +12,6 @@ Now, I'm going to introduce my code:
   ><p>c) Reading of parameters from each file
   ><p>d) Search maximum λ, intensity and full power of spectra
   ><p>e) Saving in file.txt
-    ![Map_r_(f,λ)](https://user-images.githubusercontent.com/87599571/178657933-17259fc1-6c74-4485-942e-050a47f4789e.png)
+    ![Map_r_(f,λ)](https://user-images.githubusercontent.com/87599571/178657985-0ec324f6-38a2-4b84-986b-bcc282e8d170.png)
+
 

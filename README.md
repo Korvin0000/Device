@@ -14,5 +14,5 @@ Now, I'm going to introduce my code:
   ><p>e) Saving in file.txt
 
 
+![Map_r_(f,λ)](https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png | width = 100) 
 
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/87599571/178658088-e12d391d-6009-4d75-ab9c-15906fd09efc.png)" width="200" />

@@ -16,4 +16,4 @@ Now, I'm going to introduce my code:
 ![Map_r_(f,λ)](https://user-images.githubusercontent.com/87599571/178658088-e12d391d-6009-4d75-ab9c-15906fd09efc.png)
 
 
-<img src="[image.png](https://user-images.githubusercontent.com/87599571/178658088-e12d391d-6009-4d75-ab9c-15906fd09efc.png)" width="200" height="100">
+<img src=[image.png](https://user-images.githubusercontent.com/87599571/178658088-e12d391d-6009-4d75-ab9c-15906fd09efc.png) width="200" height="100">

@@ -19,6 +19,8 @@ Now, I'm going to introduce my code:
 
 Actually, this map was created for the parameter p = 0. But, if we change this parameter, then the map will shift relative to the diagonals (because of the long experiment it can be shown only for small highlighted fragment):
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179039394-2012c081-b859-488f-9815-7d0b494ac2e2.gif" width="350" height="300" /></h1>!
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179039394-2012c081-b859-488f-9815-7d0b494ac2e2.gif" width="350" height="300" /></h1>
+
+To find the optimal parameters, we have to go through each diagonal of the map. Rather, extract the currents in the middle of the diagonals.
 
 

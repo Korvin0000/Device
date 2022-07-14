@@ -15,8 +15,6 @@ Now, I'm going to introduce my code:
   ><p>e) Saving in file.txt
 3) Studying the dependence between λ and parameters (r, f) according to the file.txt
 
-
-
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179037437-b62af617-8094-4c53-9e15-0406a21f5868.png" width="650" height="400" /></h1>
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="650" height="400" /></h1>
+
 Actually, this map was created for the parameter p = 0. But, if we change this parameter, then the map will shift relative to the diagonals:

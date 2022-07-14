@@ -16,6 +16,6 @@ Now, I'm going to introduce my code:
 3) Studying the dependence between λ and parameters (r, f) according file.txt
 
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="600" height="400" /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="650" height="400" /></h1>
 
 

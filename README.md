@@ -18,4 +18,4 @@ Now, I'm going to introduce my code:
 
 
 
-<img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="200" height="200" />

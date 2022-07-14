@@ -15,7 +15,7 @@ Now, I'm going to introduce my code:
   ><p>e) Saving in file.txt
 3) Studying the dependence between λ and parameters (r, f) according file.txt
 
-
+![](https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png =250x250)
 
 
 <img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="500" height="500" />

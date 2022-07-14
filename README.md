@@ -24,4 +24,4 @@ Actually, this map was created for the parameter p = 0. But, if we change this p
 To find the optimal parameters, we have to go through each diagonal of the map. Rather, extract the currents in the middle of the diagonals (**Search currents.py**).
 
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="350" height="300" /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="650" height="400" /></h1>

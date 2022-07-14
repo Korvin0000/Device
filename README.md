@@ -17,10 +17,11 @@ Now, I'm going to introduce my code:
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179037437-b62af617-8094-4c53-9e15-0406a21f5868.png" width="650" height="400" /></h1>
 
-Actually, this map was created for the parameter p = 0. But, if we change this parameter, then the map will shift relative to the diagonals (because of the long experiment it can be shown only for small highlighted fragment):
+Actually, this map was created for the parameter p = 0. But, if we change this parameter, then the map will shift relative to the diagonals (because of the long experiment can be shown only for small highlighted fragment):
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179039394-2012c081-b859-488f-9815-7d0b494ac2e2.gif" width="350" height="300" /></h1>
 
 To find the optimal parameters, we have to go through each diagonal of the map. Rather, extract the currents in the middle of the diagonals (**Search currents.py**).
 
 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="350" height="300" /></h1>

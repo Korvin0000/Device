@@ -17,4 +17,4 @@ Now, I'm going to introduce my code:
 
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/178659505-0daccebb-813d-47c0-8966-0461ced66e87.png" width="650" height="400" /></h1>
-
+Actually, this map was created for the parameter p = 0. But, if we change this parameter then the map will shift relative to the diagonals:

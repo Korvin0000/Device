@@ -35,4 +35,4 @@ To simplify this task, I decided to take **r** = **f** and started to change the
 
 If we use these points from map (**r, f, p**), we will get wavelength tuning:
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179279479-e27d985b-db2b-46fd-9f2a-05e889c6a4f0.png" width="350" height="300" /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179279479-e27d985b-db2b-46fd-9f2a-05e889c6a4f0.png" width="650" height="400" /></h1>

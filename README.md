@@ -30,7 +30,7 @@ To simplify this task, I decided to take **r** = **f** and started to change the
 
 <h1 align="left"><img src="https://user-images.githubusercontent.com/87599571/179276650-3c0e5cea-bc09-471f-83e6-7de83e8bc9cd.gif" width="450" height="350" /></h1>  <h1 align="right"><img src="https://user-images.githubusercontent.com/87599571/179276222-4f14d440-6e6b-4db5-9354-fe913440c7e4.png" width="450" height="300" /></h1>
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/87599571/179276650-3c0e5cea-bc09-471f-83e6-7de83e8bc9cd.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/87599571/179276222-4f14d440-6e6b-4db5-9354-fe913440c7e4.png" width="100" /> 
-</p>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/87599571/179276650-3c0e5cea-bc09-471f-83e6-7de83e8bc9cd.gif" width="450" height="350" />
+  <img src="https://user-images.githubusercontent.com/87599571/179276222-4f14d440-6e6b-4db5-9354-fe913440c7e4.png" width="450" height="300" /> 
+</h1>

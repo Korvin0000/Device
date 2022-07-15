@@ -27,5 +27,7 @@ To find the optimal parameters, we have to go through each diagonal of the map. 
 
 ## Variation of **p** for the currents of main diagonal **r** and **f**:
 To simplify this task, I decided to take **r** = **f** and started to change the phase. The result of this experiment can be shown on the **Map r(p,λ)**. This map contains the full data needed to change the wavelength smoothly along one diagonal. To define the currents **p**, **r** = **f**, it was important to analyze each splice for **p** and find the middle of each shelf regarding the wavelength.
+
+<h1 align="left"><img src="https://user-images.githubusercontent.com/87599571/179276650-3c0e5cea-bc09-471f-83e6-7de83e8bc9cd.gif" width="450" height="300" /></h1>
 <h1 align="right"><img src="https://user-images.githubusercontent.com/87599571/179276222-4f14d440-6e6b-4db5-9354-fe913440c7e4.png" width="450" height="300" /></h1>
 

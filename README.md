@@ -46,7 +46,7 @@ If we use these points from map (**r, f, p**), we will get wavelength tuning (ma
 
 <h1 align="center"> Adjustment of f</h1>
 
-In the code (See), I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also,
+In the code (See **Adjustment of f.py**), I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also,
 the wavelength of peak in the spectrum when f is selected has to match old f = r.
 
 <h1 align="center">

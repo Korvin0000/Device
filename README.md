@@ -4,7 +4,7 @@ In this project, I needed to find the optimal parameters (r, f, p) that provide 
 
 Now, I'm going to introduce my code:
 
-##<h1 align="center"> Search of maximum λ (15k spectra).py and Map r(f, λ).py at p = 0</h1>
+<h1 align="center"> Search of maximum λ (15k spectra).py and Map r(f, λ).py at p = 0</h1>
 
 1) Reading each spectrum
 2) Filtering (Only one peak must be in the spectrum - single-mode regime) 

@@ -4,7 +4,7 @@ In this project, I needed to find the optimal parameters **r**, **f**, **p** tha
 
 Now, I'm going to introduce my code:
 
-<h1 align="center"> Search of maximum λ (15k spectra) and Map r(f, λ) at p = 0</h1>
+<h1 align="center"> Search of maximum λ (15k spectra) and Map r (f, λ) at p = 0</h1>
 
 1) Reading each spectrum
 2) Filtering
@@ -12,9 +12,10 @@ Now, I'm going to introduce my code:
    ><p>b) Deleting spectra with parasitic signals (the only one peak must be in the spectrum – single-mode regime)
 3) Processing
    ><p>a) Reading parameters from each file
-   ><p>b) Searching for the maximum **λ**, intensity and full power of spectra
-   ><p>c) Saving in **file.txt** (**See:** Search of maximum λ.py)
-3) Studying the dependence between **λ** and parameters **r**, **f** according to the file.txt (**See:** Map r(f, λ)):
+   ><p>b) Searching for the maximum λ, intensity and full power of spectra
+   ><p>c) Saving in file.txt
+   ><p>(See all: Search of maximum λ.py)
+3) Studying the dependence between **λ** and parameters **r**, **f** according to the file.txt (**See:** Map r (f, λ).py):
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179037437-b62af617-8094-4c53-9e15-0406a21f5868.png" width="650" height="400" /></h1>
 

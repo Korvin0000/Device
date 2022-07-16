@@ -49,7 +49,8 @@ If we use these points from map (**r, f, p**), we will get wavelength tuning (ma
 In the code (See), I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also,
 the wavelength of peak in the spectrum when f is selected has to match old f = r.
 
-![image](https://user-images.githubusercontent.com/87599571/179351084-b140d653-861b-4b80-b705-7abe99095dca.png)
-
-![image](https://user-images.githubusercontent.com/87599571/179351093-acd3f1de-1cf0-42e2-a390-a6bd89dc7ec3.png)
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/87599571/179351084-b140d653-861b-4b80-b705-7abe99095dca.png" width="450" height="350" />
+  <img src="ttps://user-images.githubusercontent.com/87599571/179351093-acd3f1de-1cf0-42e2-a390-a6bd89dc7ec3.png" width="500" height="350" /> 
+</h1>
 

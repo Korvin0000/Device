@@ -25,7 +25,7 @@ To find the optimal parameters, we have to go through each diagonal of the map r
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="650" height="400" /></h1>
 
-## Variation of **p** for the currents of main diagonal **r** and **f**:
+<h1 align="center"> Variation of p for the currents of main diagonal r and f</h1>
 To simplify this task, we decided to take **r** = **f** and started to change the phase (See **Map r=f (p, λ).py**). The result of this experiment can be shown on the **Map r (p,λ)**. This map contains the full data needed to change the wavelength smoothly along one diagonal. To define the parameters **p**, **r** = **f**, it was important to analyze each splice for **p** and find the middle of each shelf regarding the wavelength.
 
 <h1 align="center">
@@ -41,7 +41,7 @@ If we use these points from map (**r, f, p**), we will get wavelength tuning:
 1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths.
 2) The wavelength tuning wasn't smooth. In order to have linear smooth tuning, we need to make right crosslinking.
 
-<h1 align="center"> ## Adjustment of **f**</h1>
+<h1 align="center"> Adjustment of f</h1>
 
 In the code (See), I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also,
 the wavelength of peak in the spectrum when f is selected has to match old f = r. 

@@ -55,7 +55,7 @@ In the code, I decided to change **f** relative to **f = r** in the certin range
 
 We've got the signals with smaller widths and selected appropriate parameters.
 
-<h1 align="center"> Linear wavelength tuning </h1>
+<h1 align="center"> Finish. Linear wavelength tuning. </h1>
 
 For this task, I decided to take the old wavelength tuning with joints and remove points that deviate from the linear dependence. Then, I interpolated the resulting dependence. I've got the next parameters for the laser and this wavelength tuning:
 

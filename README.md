@@ -59,6 +59,3 @@ We've got the signals with smaller widths and selected appropriate parameters.
 
 
 
-f
-
-

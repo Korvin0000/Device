@@ -50,7 +50,7 @@ In the code, I decided to change **f** relative to **f = r** in the certin range
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179351084-b140d653-861b-4b80-b705-7abe99095dca.png" width="450" height="300" />
-  <img src="https://user-images.githubusercontent.com/87599571/179351584-4380d2be-339a-4d8d-a017-1529b1a0b511.png" width="300" height="300" /> 
+  <img src="https://user-images.githubusercontent.com/87599571/179351584-4380d2be-339a-4d8d-a017-1529b1a0b511.png" width="400" height="300" /> 
 </h1>
 
 We've got the signals with smaller widths and selected appropriate parameters.

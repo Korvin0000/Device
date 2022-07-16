@@ -28,14 +28,14 @@ To find the optimal parameters, we had to go through each diagonal of the map **
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="650" height="400" /></h1>
 
 <h1 align="center"> Variation of p for the parameters r and f on the main diagonal</h1>
-To simplify this task, we decided to take r = f and started to change the phase (See: Map r=f (p, λ).py). Thus, we've recieved full data needed to change the wavelength smoothly along one diagonal (See: pic on the left). To define the parameters p, r = f, it was important to analyze each splice for **p** and find the middle of each shelf regarding the wavelength (See: gif on the right).
+To simplify this task, we decided to take r = f and started to change the phase (See: Map r=f (p, λ).py). Thus, we've recieved the full data needed to change the wavelength smoothly along one diagonal (See: pic on the left). To define the parameters p, r = f, it was necessary to examine each splice for **p** and locate the center of each shelf in terms of wavelength (See: gif on the right).
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179276650-3c0e5cea-bc09-471f-83e6-7de83e8bc9cd.gif" width="450" height="350" />
   <img src="https://user-images.githubusercontent.com/87599571/179276222-4f14d440-6e6b-4db5-9354-fe913440c7e4.png" width="500" height="350" /> 
 </h1>
 
-If we use these points from the **Map r (p, λ)**, we will get the next wavelength tuning (maximum intensity of each signal):
+We can get the next wavelength tuning (maximum intensity of each signal) by using these points from the **Map r (p, λ)**:
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179351458-77f50c8b-4cf9-42e3-b7f0-f32ec3ff4bc4.gif" width="450" height="350" />

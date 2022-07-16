@@ -41,13 +41,12 @@ If we use these points from map (**r, f, p**), we will get wavelength tuning (ma
 </h1>
 
 ### But, there are two problems:
-1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths.
+1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths (See **Adjustment of f.py**).
 2) The wavelength tuning wasn't smooth. In order to have linear smooth tuning, we need to make right crosslinking.
 
 <h1 align="center"> Adjustment of f</h1>
 
-In the code (See **Adjustment of f.py**), I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also,
-the wavelength of peak in the spectrum when f is selected has to match old f = r.
+In the code, I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also, the wavelength of peak in the spectrum when f is selected has to match old f = r.
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179351084-b140d653-861b-4b80-b705-7abe99095dca.png" width="450" height="300" />

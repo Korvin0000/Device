@@ -35,7 +35,11 @@ To simplify this task, we decided to take **r** = **f** and started to change th
 
 If we use these points from map (**r, f, p**), we will get wavelength tuning:
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179279479-e27d985b-db2b-46fd-9f2a-05e889c6a4f0.png" width="650" height="400" /></h1>
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/87599571/179351458-77f50c8b-4cf9-42e3-b7f0-f32ec3ff4bc4.gif" width="450" height="350" />
+  <img src="https://user-images.githubusercontent.com/87599571/179279479-e27d985b-db2b-46fd-9f2a-05e889c6a4f0.png" width="500" height="350" /> 
+</h1>
 
 ### But, there are two problems:
 1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths.

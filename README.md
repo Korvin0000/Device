@@ -41,4 +41,7 @@ Actually, there are two problems:
 1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths.
 2) The wavelength tuning wasn't smooth. In order to have linear tuning, we need to make right crosslinking.
 
+## Adjustment of **f**
 
+In the code (See), I decided to change **f** relative to **f = r** in the certin range. The selection criteria of f was based on the minimum spectral width and, also,
+the wavelength of peak in the spectrum when f is selected has to match old f = r. 

@@ -90,7 +90,6 @@ for k in range(r_par.size):
      
         if xx[-1] - xx[0] < 1:
             
-            
             # lambs[i] = x[np.where( y == np.max(y) )[0][0]]
             mask = ( np.max(y) - y ) < 10
             

@@ -33,7 +33,7 @@ To simplify this task, we decided to take **r** = **f** and started to change th
   <img src="https://user-images.githubusercontent.com/87599571/179276222-4f14d440-6e6b-4db5-9354-fe913440c7e4.png" width="500" height="350" /> 
 </h1>
 
-If we use these points from map (**r, f, p**), we will get wavelength tuning (maximum of each signal):
+If we use these points from map (**r, f, p**), we will get wavelength tuning (maximum intensity of each signal):
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179351458-77f50c8b-4cf9-42e3-b7f0-f32ec3ff4bc4.gif" width="450" height="350" />

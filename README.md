@@ -13,7 +13,7 @@ Now, I'm going to introduce my code:
   ><p>c) Reading of parameters from each file
   ><p>d) Search maximum λ, intensity and full power of spectra
   ><p>e) Saving in file.txt
-3) Studying the dependence between λ and parameters (r, f) according to the file.txt
+3) Studying the dependence between **λ** and parameters **r**, **f** according to the file.txt
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179037437-b62af617-8094-4c53-9e15-0406a21f5868.png" width="650" height="400" /></h1>
 

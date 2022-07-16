@@ -54,4 +54,11 @@ In the code, I decided to change **f** relative to **f = r** in the certin range
 </h1>
 
 We've got the signals with smaller widths and selected appropriate parameters.
+
 <h1 align="center"> Linear wavelength tuning </h1>
+
+
+
+f
+
+

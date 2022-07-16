@@ -1,4 +1,4 @@
-<h1 align="center">Tunable laser</h1>
+<h1 align="center">Introduction. Tunable laser.</h1>
 
 In this project, I needed to find the optimal parameters (r, f, p) that provide the maximum intensity for different wavelengths in the single-mode regime and, finally, smooth wavelength tuning. If I can extract these parameters, I will get the tunable laser on a chip with range 30 nm.
 

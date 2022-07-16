@@ -40,3 +40,5 @@ If we use these points from map (**r, f, p**), we will get wavelength tuning:
 Actually, there are two problems:
 1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths.
 2) The wavelength tuning wasn't smooth. In order to have linear tuning, we need to make right crosslinking.
+
+

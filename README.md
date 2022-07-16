@@ -54,3 +54,4 @@ the wavelength of peak in the spectrum when f is selected has to match old f = r
   <img src="https://user-images.githubusercontent.com/87599571/179351584-4380d2be-339a-4d8d-a017-1529b1a0b511.png" width="500" height="300" /> 
 </h1>
 
+We've got the signals with smaller widths and select appropriate  parameters.

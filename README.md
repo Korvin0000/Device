@@ -61,6 +61,6 @@ For this task, I decided to take the old wavelength tuning with joints and remov
 
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/87599571/179353558-5e8c9c93-8c20-40c1-add6-875744e14e03.png" width="550" height="350" />
-  <img src="https://user-images.githubusercontent.com/87599571/179353571-85726596-3121-4f5e-b8eb-0323bfb23671.png" width="550" height="350" /> 
+  <img src="https://user-images.githubusercontent.com/87599571/179353558-5e8c9c93-8c20-40c1-add6-875744e14e03.png" width="500" height="300" />
+  <img src="https://user-images.githubusercontent.com/87599571/179353571-85726596-3121-4f5e-b8eb-0323bfb23671.png" width="500" height="300" /> 
 </h1>

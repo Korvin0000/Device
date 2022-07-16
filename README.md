@@ -51,6 +51,6 @@ the wavelength of peak in the spectrum when f is selected has to match old f = r
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179351084-b140d653-861b-4b80-b705-7abe99095dca.png" width="450" height="350" />
-  <img src="ttps://user-images.githubusercontent.com/87599571/179351093-acd3f1de-1cf0-42e2-a390-a6bd89dc7ec3.png" width="500" height="350" /> 
+  <img src="https://user-images.githubusercontent.com/87599571/179351584-4380d2be-339a-4d8d-a017-1529b1a0b511.png" width="500" height="350" /> 
 </h1>
 

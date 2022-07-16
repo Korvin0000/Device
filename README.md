@@ -48,7 +48,7 @@ We can get the next wavelength tuning (maximum intensity of each signal) by usin
 
 <h1 align="center"> Adjustment of f</h1>
 
-Here, I decided to change **f** relative to **f = r** in the certin range. The selection criteria of **f** was based on a minimum spectral width of the signal (3 dB, 5 dB, 10 dB) and also the wavelength of the peak at the selected **f** should correcpond to **f = r**.
+Here, I decided to change **f** relative to **f = r** in the certin range. The selection criteria of **f** was based on the minimum spectral width of the signal (3 dB, 5 dB, 10 dB) and also the wavelength of the peak at the selected **f** should correspond to **f = r**.
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/87599571/179351084-b140d653-861b-4b80-b705-7abe99095dca.png" width="450" height="300" />

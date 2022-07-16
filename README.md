@@ -6,7 +6,7 @@ Now, I'm going to introduce my code:
 
 ## **Search of maximum λ (15k spectra).py** and **Map r(f, λ).py** at p = 0
 
-1) Reading of each spectrum
+1) Reading each spectrum
 2) Filtering (Only one peak must be in the spectrum - single-mode regime) 
   ><p>a) Deletion of spectra with weak-intensity peaks (law SNR)
   ><p>b) Deletion of parasitic signals

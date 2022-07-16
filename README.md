@@ -37,4 +37,6 @@ If we use these points from map (**r, f, p**), we will get wavelength tuning:
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179279479-e27d985b-db2b-46fd-9f2a-05e889c6a4f0.png" width="650" height="400" /></h1>
 
-Actually, there are some problems. It turned out, the hypothesis that the main diagonal corresponds to r = f wasn't correct. Actually, **r = Afunc(f)**. Because of this, the signals in the spectrum are worse and have wider widths. Also, the tuning isn't smooth. In order to make linear tuning, we had to do right joining.
+Actually, there are two problems:
+1) The hypothesis that the main diagonal corresponds to **r** = f wasn't correct. Actually, **r = A·func(f)**. Because of this mistake, the signals in the spectrum are worse and have wider widths.
+2) The wavelength tuning wasn't smooth. In order to have linear tuning, we need to make right crosslinking.

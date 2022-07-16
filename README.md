@@ -11,7 +11,7 @@ Now, I'm going to introduce my code:
    ><p>a) Removal of spectra with low-intensity peaks (law SNR)
    ><p>b) Removing spectra containing parasitic signals (the spectrum must contain only one peak – single-mode regime)
    Like this:
-      <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179358231-2dee2b21-e6d6-4b5f-b40e-b972cf70a4e4.png" width="650" height="350" /></h1>
+      <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179358231-2dee2b21-e6d6-4b5f-b40e-b972cf70a4e4.png" width="450" height="250" /></h1>
 
 3) Processing
    ><p>a) Reading parameters from each file

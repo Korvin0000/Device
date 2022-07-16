@@ -7,7 +7,7 @@ Now, I'm going to introduce my code:
 <h1 align="center"> Search of maximum λ (15k spectra).py and Map r(f, λ).py at p = 0</h1>
 
 1) Reading each spectrum
-2) Filtering (Only one peak must be in the spectrum - single-mode regime) 
+2) Filtering (only one peak must be in the spectrum - single-mode regime) 
   ><p>a) Deletion of spectra with weak-intensity peaks (law SNR)
   ><p>b) Deletion of parasitic signals
   ><p>c) Reading of parameters from each file

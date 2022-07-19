@@ -25,7 +25,7 @@ Actually, this map was created for the parameter **p = 0**. But, if we change th
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179039394-2012c081-b859-488f-9815-7d0b494ac2e2.gif" width="350" height="300" /></h1>
 
-To find the optimal parameters, we had to go through each diagonal of the map **r (f, λ)**. Rather, extract the parameters in the middle of the diagonals (**See**: Search currents.py). After that, we chos the main diagonal (**blue line**) and, further, only for those parameters **r** and **f**, the parameter **p** was varied.
+To find the optimal parameters, we had to go through each diagonal of the map **r (f, λ)**. Rather, extract the parameters in the middle of the diagonals (**See**: Search currents.py). After that, we chose the main diagonal (**blue line**) and, further, only for those parameters **r** and **f**, the parameter **p** was varied.
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="650" height="400" /></h1>
 

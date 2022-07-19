@@ -61,7 +61,7 @@ So, we've got the signals with smaller widths and selected appropriate parameter
 
 <h1 align="center"> Finish. Linear wavelength tuning. </h1>
 
-For this task, I modified the wavelength tuning with joints by removing points that deviate from the linear dependence. Then, I interpolated the resulting dependence. Finally, I've got the required parameters for the laser and the wavelength tuning:
+For this task, I modified the wavelength tuning with joints by removing points that deviate from the linear dependence. Then, I interpolated the resulting dependence. Finally, I've got the required parameters for my device and the wavelength tuning:
 
 
 <h1 align="center">

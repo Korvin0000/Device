@@ -1,7 +1,6 @@
 <h1 align="center">Introduction. Device.</h1>
 
-In this project, I needed to find the optimal parameters **r**, **f**, **p** that provide the maximum intensity for different wavelengths in the single-mode regime and, finally, smooth wavelength tuning. If I can extract these parameters, I will get the tunable laser on a chip with a range of 30 nm.
-
+In this project, I needed to find the optimal parameters **r**, **f**, **p** that provide the maximum intensity for different wavelengths in the single-mode regime and, finally, smooth wavelength tuning. 
 Now, I'm going to introduce my code:
 
 <h1 align="center"> Search of maximum λ (15k spectra) and Map r (f, λ) at p = 0</h1>

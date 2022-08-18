@@ -180,10 +180,7 @@ for i in range(f_new.size):
         ind[i] = np.where(f_in == f_new[i])[0][0]
 ind = np.array(ind, dtype = int)
 r_new = np.round((r_in(f_in))[ind]).astype(int)
-
-
 # np.savez(path_max +'Parameters_1.npz', p = p_new, r = r_new, f = f_new, la = la_new)
-
 
 #Create linear tuning
 p_k = p_new

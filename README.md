@@ -27,7 +27,7 @@ Actually, this map was created for the parameter **p = 0**. But, if we change th
 
 To find the optimal parameters, we had to go through each diagonal of the map **r (f, λ)**. Rather, extract the parameters in the middle of the diagonals (**See**: Search currents.py). After that, we chose the main diagonal (**blue line**) and, further, only for those parameters **r** and **f**, the parameter **p** was varied.
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="650" height="400" /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/179046528-66eeeb20-70df-4080-9df1-d70525688ac1.png" width="650" height="550" /></h1>
 
 <h1 align="center"> Variation of p for the parameters r and f on the main diagonal</h1>
 To simplify this task, we decided to take r = f and started to change the phase (See: Map r=f (p, λ).py). Thus, we've recieved the full data needed to change the wavelength smoothly along one diagonal (See: pic on the left). To define the parameters p, r = f, it was necessary to examine each splice for p and locate the center of each shelf in terms of wavelength (See: gif on the right).

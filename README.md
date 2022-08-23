@@ -71,4 +71,4 @@ For this task, I modified the wavelength tuning with joints by removing points t
 
 Further, I'm planning to make this process for all diagonals of **Map r (f, λ)**.
 
-You can see the final automated program in **Final_program.py** (Reading of files to build Map f (p, λ); Search of the middle -> Wavelength tuning -> Selection of parameters for linear tuning) .
+You can see the final automated program in **Final_program.py** (Reading of files to build Map f (p, λ) -> Search of the middle -> Wavelength tuning -> Selection of parameters for linear tuning) .

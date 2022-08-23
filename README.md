@@ -82,3 +82,5 @@ You can see the final automated program in **Final_program.py** (Reading of file
   <img src="https://user-images.githubusercontent.com/87599571/186095100-a351e4ba-e63a-4864-a55d-9fa71871705d.png" width="500" height="300" />
   <img src="https://user-images.githubusercontent.com/87599571/186095539-ac7968d3-d3a2-43fe-8498-71688ad2176f.png" width="500" height="300" /> 
 </h1>
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/186095763-bbe7d76c-2c48-444c-be09-bcb15388dfbd.gif" width="450" height="250" /></h1>

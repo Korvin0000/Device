@@ -84,4 +84,4 @@ You can see the final automated program in **Final_program.py** (Reading of file
 </h1>
 
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/186096081-b27439bc-1d80-45f1-a46d-18e74300173a.gif" width="650" height="300" /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/87599571/186096081-b27439bc-1d80-45f1-a46d-18e74300173a.gif" width="650" height="400" /></h1>
